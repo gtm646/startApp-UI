@@ -1,0 +1,52 @@
+.node {
+  cursor: pointer;
+}
+
+.node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node--leaf {
+  fill: white;
+}
+
+.label {
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+
+}
+
+.label,
+.node--root{
+  pointer-events: none;
+}
+.node--leaf:hover{
+  stroke: #000;
+  stroke-width: 1.5px;
+    cursor: pointer;
+}
+#map-container {
+	float:left;
+	-webkit-box-shadow: rgba(64, 64, 64, 0.5) 0 2px 5px;
+	-moz-box-shadow: rgba(64, 64, 64, 0.5) 0 2px 5px;
+	box-shadow: rgba(64, 64, 64, 0.1) 0 2px 5px;
+	width: 923px;
+}
+
+#map {
+	width: 923px;
+	height: 960px;
+}
+
+.selectcategory {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 960px;
+  font-size: 35px;
+  font-family: fantasy;
+  position: relative;
+  overflow: hidden;
+  transform: translateZ(0px);
+  background: darkgrey;
+}

@@ -1,0 +1,59 @@
+{
+ "children":[{
+        "categoryId": "56101",
+        "categoryName": "Restaurants",
+        "count": 95
+    }, {
+        "categoryId": "55101",
+        "categoryName": "Hotel-restaurants",
+        "count": 20
+    }, {
+        "categoryId": "55102",
+        "categoryName": "Hotels (geen hotel-restaurants) pensions en conferentie-oorden",
+        "count": 60
+    }, {
+        "categoryId": "6420",
+        "categoryName": "Financiële holdings",
+        "count": 50
+    }, {
+        "categoryId": "5530",
+        "categoryName": "Kampeerterreinen",
+        "count": 150
+    }, {
+        "categoryId": "66191",
+        "categoryName": "Administratiekantoren voor aandelen en obligaties",
+        "count": 50
+    }, {
+        "categoryId": "47712",
+        "categoryName": "Winkels in dameskleding",
+        "count": 75
+    }, {
+        "categoryId": "86221",
+        "categoryName": "Praktijken van medisch specialisten en medische dagbehandelcentra (geen tandheelkunde of psychiatrie)",
+        "count": 50
+    }, {
+        "categoryId": "70221",
+        "categoryName": "Organisatie-adviesbureaus",
+        "count": 80
+    }, {
+        "categoryId": "46383",
+        "categoryName": "Gespecialiseerde groothandel in overige voedings- en genotmiddelen n.e.g.",
+        "count": 50
+    }, {
+        "categoryId": "46901",
+        "categoryName": "Niet-gespecialiseerde groothandel in consumentenartikelen",
+        "count": 45
+    }, {
+        "categoryId": "47293",
+        "categoryName": "Winkels in buitenlandse voedingsmiddelen",
+        "count": 5
+    }, {
+        "categoryId": "46429",
+        "categoryName": "Groothandel in textielwaren algemeen assortiment",
+        "count": 41
+    }, {
+        "categoryId": "64303",
+        "categoryName": "Beleggingsinstellingen met beperkte toetreding",
+        "count": 30
+    }]
+}
